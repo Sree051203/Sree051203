@@ -1,6 +1,9 @@
-👋 Hi there! I'm Sreelakshmi, a final year student majoring in AI and Data Science. 
-🤖💻 Passionate about harnessing the power of data to drive insights and innovation.
-I'm constantly exploring new algorithms and techniques to solve real-world problems.
-🌟 Excited to collaborate, learn, and contribute to the ever-evolving field of AI and Data Science!
-Let's connect and build something awesome together. 🚀
+👋 Hey, I’m Sreelakshmi!
+🎓 B.Tech in AI & Data Science | 🕸️ Co-Founder of spydX
+🤖 Machine Learning Enthusiast | Builder of AI-Powered Solutions
+
+💡 Passionate about leveraging data and intelligent systems to solve real-world problems.
+🚀 Constantly experimenting with models, building impactful tools, and leading innovations through spydX—our growing tech and training startup.
+
+Let’s connect, collaborate, and create something extraordinary.
 linkedin-https://www.linkedin.com/in/msreelakshmi

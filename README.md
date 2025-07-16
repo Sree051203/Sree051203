@@ -6,4 +6,4 @@
 🚀 Constantly experimenting with models, building impactful tools, and leading innovations through spydX—our growing tech and training startup.
 
 Let’s connect, collaborate, and create something extraordinary.
-linkedin-https://www.linkedin.com/in/msreelakshmi
+![linkedin]https://www.linkedin.com/in/msreelakshmi
